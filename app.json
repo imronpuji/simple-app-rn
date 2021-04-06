@@ -17,9 +17,11 @@
       "**/*"
     ],
     "ios": {
+    
       "supportsTablet": true
     },
     "android": {
+      "package" : "imron.com",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
